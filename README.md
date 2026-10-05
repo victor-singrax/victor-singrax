@@ -16,7 +16,7 @@
 
 <br>
 
-## `01 / sobre mim`
+## `sobre mim`
 
 Sou **Victor Sales Marques**, estudante **de ADS na FIAP**.
 
@@ -24,7 +24,7 @@ Aqui compartilho meus estudos, exercícios e projetos. Atualmente, estou aprofun
 
 <br>
 
-## `02 / formação`
+## `formação`
 
 | Instituição | Curso | Situação |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Aqui compartilho meus estudos, exercícios e projetos. Atualmente, estou aprofun
 
 <br>
 
-## `03 / tecnologias em estudo`
+## `tecnologias em estudo`
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java" title="Java">
@@ -55,7 +55,7 @@ Aqui compartilho meus estudos, exercícios e projetos. Atualmente, estou aprofun
 
 <br>
 
-## `04 / estudos & projetos acadêmicos`
+## `estudos & projetos acadêmicos`
 
 | Projeto | Sobre |
 | :--- | :--- |
@@ -64,7 +64,7 @@ Aqui compartilho meus estudos, exercícios e projetos. Atualmente, estou aprofun
 
 <br>
 
-## `05 / portfólio de jogos`
+## `portfólio de jogos`
 
 Este espaço reúne meus projetos de programação de jogos, uma área que explorei durante minha formação técnica no **SENAC**.
 
