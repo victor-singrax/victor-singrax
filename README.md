@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./singirl.gif" width="150" alt="Personagem em pixel art animado">
+
+<br>
+
 # `> olá, eu sou o Victor_`
 
 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
