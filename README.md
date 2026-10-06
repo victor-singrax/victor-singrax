@@ -78,7 +78,6 @@ Este espaço reúne meus projetos de programação de jogos, uma área que explo
 - **Unity:** desenvolvimento de jogos.
 - **Blender:** modelagem 3D.
 - **Aseprite:** criação de pixel art e animações 2D.
-Escrita
 - **Unity Version Control (Plastic SCM):** controle de versão dos projetos de jogos.
 
 <p>
