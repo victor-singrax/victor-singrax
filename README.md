@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./singirl.gif" width="220" alt="Personagem em pixel art animado">
+<img src="./singirl-moldura.gif" width="220" alt="Personagem em pixel art animado">
 
 <br>
 
