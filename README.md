@@ -4,7 +4,7 @@
 
 <br>
 
-# `> olá, eu sou o Victor_`
+# `> Olá, eu sou o Victor_`
 
 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
 
@@ -20,15 +20,17 @@
 
 <br>
 
-## `sobre mim`
+## `Sobre mim`
 
 Sou **Victor Sales Marques**, estudante **de ADS na FIAP**.
 
 Aqui compartilho meus estudos, exercícios e projetos. Atualmente, estou aprofundando minha base em programação e aprendendo a organizar e documentar o que desenvolvo.
 
+Minha experiência com jogos solidificou minha base em Lógica de Programação, Programação Orientada a Objetos (POO) e versionamento com Git.
+
 <br>
 
-## `formação`
+## `Formação`
 
 | Instituição | Curso | Situação |
 | :--- | :--- | :--- |
@@ -37,7 +39,7 @@ Aqui compartilho meus estudos, exercícios e projetos. Atualmente, estou aprofun
 
 <br>
 
-## `tecnologias em estudo`
+## `Tecnologias em estudo`
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java" title="Java">
@@ -59,16 +61,16 @@ Aqui compartilho meus estudos, exercícios e projetos. Atualmente, estou aprofun
 
 <br>
 
-## `estudos & projetos acadêmicos`
+## `Estudos & projetos acadêmicos`
 
 | Projeto | Sobre |
 | :--- | :--- |
-| [**Estudos em Java**](https://github.com/victor-singrax/estudos-java) | Exercícios e práticas de programação em Java. Estudo pessoal.|
+| [**Estudos em Java**](https://github.com/victor-singrax/estudos-java) | Exercícios e práticas de programação em Java. Estudo pessoal. |
 | [**Exercícios FIAP**](https://github.com/victor-singrax/exercicios-fiap) | Atividades desenvolvidas ao longo da graduação. |
 
 <br>
 
-## `portfólio de jogos`
+## `Portfólio de jogos`
 
 Este espaço reúne meus projetos de programação de jogos, uma área que explorei durante minha formação técnica no **SENAC**.
 
